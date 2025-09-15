@@ -1,0 +1,112 @@
+body{
+    background-color: lightblue;
+}
+
+h4{
+    font-style: italic;
+}
+
+.highlight{
+    background-color: lightgoldenrodyellow;
+    border-radius: 10px;
+}
+
+#main-heading{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.heading{
+    background-color: lightpink;
+    text-align: center;
+    padding: 15px;
+}
+
+.id-class{
+    width: fit-content;
+    margin-left: 40% ;
+}
+
+footer{
+    background-color: lightsalmon;
+    border: 10px solid black;
+    clear: both;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+}
+
+.static{
+    background-color: lawngreen;
+    position: static;
+}
+
+.relative{
+    background-color: blue;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+.absolute{
+    background-color: blueviolet;
+    position: absolute;
+    top:50px;
+    left: 50px;
+}
+.fixed{
+    background-color: brown;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+.positioning{
+    height: 300px;
+}
+
+html {
+    font-size: 20px;
+}
+.parent-container{
+    font-size: 10px;
+}
+.px-example{
+    font-size: 30px;
+}
+.percent-example{
+    font-size: 300%;
+}
+.em-example{
+    font-size: 2em;
+}
+.rem-example{
+    font-size: 1.5rem;
+}
+
+
+
+.float{
+    width: 40%;
+}
+
+.left{
+    float: left;
+    background-color: aquamarine;
+}
+
+.right{
+    float: right;
+    background-color: coral;
+}
+img{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+
+
